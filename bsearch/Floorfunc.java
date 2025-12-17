@@ -1,15 +1,14 @@
-public class Ceilingfunc {
+public class Floorfunc {
     public static void main(String[] args) {
-        int[] arr = { 1, 3, 5, 7, 9, 11, 14, 20, 25 };
-        int target = 15;
-        int ans = CeilingFunc(arr, target);
+        int[] arr = { 2, 3, 5, 7, 9, 11, 14, 20, 25 };
+        int target = 1;
+        int ans = FloorFunc(arr, target);
         System.out.println(ans);
 
     }
 
     // Will return the index at which the ceil number is present
-    static int CeilingFunc(int[] arr, int target) {
-
+    static int FloorFunc(int[] arr, int target) {
         if (target > arr[arr.length - 1]) {
             return -1;
         }
@@ -29,7 +28,7 @@ public class Ceilingfunc {
             }
 
         }
-        return start;
+        return end;
         // return arr[start];
         // Check for smallest greater element .
     }
