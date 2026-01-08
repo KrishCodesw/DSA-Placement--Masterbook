@@ -1,4 +1,4 @@
-class Solution {
+class LetterCeiling {
     public char nextGreatestLetter(char[] letters, char target) {
         int start = 0;
         int end = letters.length - 1;
