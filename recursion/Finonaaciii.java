@@ -1,3 +1,5 @@
+import java.time.LocalTime;
+
 public class Finonaaciii {
     public static void main(String[] args) {
         // int first = 0;
@@ -5,7 +7,11 @@ public class Finonaaciii {
         // System.out.println(first);
         // System.out.println(second);
         // FSeries(580);
-        System.out.println(FSeries(1253));
+        LocalTime currentTime = LocalTime.now();
+        System.out.println("Current time: " + currentTime);
+        System.out.println(FSeries(0130));
+        LocalTime endTime = LocalTime.now();
+        System.out.println("Current time: " + endTime);
     }
 
     static int FSeries(int n) {
