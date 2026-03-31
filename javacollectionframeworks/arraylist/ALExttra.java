@@ -33,6 +33,6 @@ class MyComparator implements Comparator<Integer> {
         // --- > o2-o1 will be the condition for descending
         // Comparator done
 
-        Comparator<Integer> comp = Comparator.comparing(o1);
+        // Comparator<Integer> comp = Comparator.comparing(o1);
     }
 }
