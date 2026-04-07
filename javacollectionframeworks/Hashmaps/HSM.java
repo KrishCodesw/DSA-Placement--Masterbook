@@ -24,6 +24,7 @@ public class HSM {
             System.out.println(entry.getKey() + " " + entry.getValue());
             entry.setValue(entry.getValue().toLowerCase());
             System.out.println(hmap);
+            // Internal working of hashmap
         }
     }
 }
