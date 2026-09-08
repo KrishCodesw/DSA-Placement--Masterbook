@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/KrishCodesw/Placement--Masterbook/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/KrishCodesw/Placement--Masterbook/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/KrishCodesw/Placement--Masterbook/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/KrishCodesw/Placement--Masterbook/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/KrishCodesw/Placement--Masterbook/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/KrishCodesw/Placement--Masterbook/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/KrishCodesw/Placement--Masterbook/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/KrishCodesw/Placement--Masterbook/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/KrishCodesw/Placement--Masterbook/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Queue
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/KrishCodesw/Placement--Masterbook/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/KrishCodesw/Placement--Masterbook/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/KrishCodesw/Placement--Masterbook/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/KrishCodesw/Placement--Masterbook/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/KrishCodesw/Placement--Masterbook/tree/master/1004-max-consecutive-ones-iii) |
 ## Design
 |  |
